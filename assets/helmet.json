@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "halmet2.png",
+	"frame": {"x":0,"y":0,"w":25,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":30},
+	"sourceSize": {"w":25,"h":30}
+},
+{
+	"filename": "helmet1.png",
+	"frame": {"x":25,"y":0,"w":23,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":30},
+	"sourceSize": {"w":23,"h":30}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "halmet.png",
+	"format": "RGBA8888",
+	"size": {"w":48,"h":30},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e51cb4331408532e9c9bbd09a3a5f2f8:6761a7776cdf158f40578095c195fbfb:77dbeff5656f1d21fcfaafcab52151d2$"
+}
+}

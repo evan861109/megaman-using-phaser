@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "jumper1.png",
+	"frame": {"x":0,"y":0,"w":38,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":51},
+	"sourceSize": {"w":38,"h":51}
+},
+{
+	"filename": "jumper2.png",
+	"frame": {"x":38,"y":0,"w":35,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":51},
+	"sourceSize": {"w":35,"h":51}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jumper.png",
+	"format": "RGBA8888",
+	"size": {"w":73,"h":51},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7a763d808ea644ba0471d26cf8ac8324:94b37024adfd9a6593cdcadea9cd4a71:e96f3eb4114d099c072fe4320248801c$"
+}
+}

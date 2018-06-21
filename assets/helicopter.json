@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "hallicoper1.png",
+	"frame": {"x":0,"y":0,"w":24,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":27},
+	"sourceSize": {"w":24,"h":27}
+},
+{
+	"filename": "hallicoper2.png",
+	"frame": {"x":24,"y":0,"w":18,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":27},
+	"sourceSize": {"w":18,"h":27}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hallicoper.png",
+	"format": "RGBA8888",
+	"size": {"w":42,"h":27},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ca324b616373082a6434007e9eeeddc3:efe5c7b2780f2017fb7fa1ad1a0012ae:229653f4b1e80a485127272a59cd4bce$"
+}
+}
